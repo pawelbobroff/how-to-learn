@@ -5,3 +5,7 @@
   font-weight: normal;
   text-decoration: none;
 }
+
+.khan__buy-link:hover{
+  color: blueviolet;
+}

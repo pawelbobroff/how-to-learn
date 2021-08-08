@@ -2,3 +2,7 @@
   width: 270px;
   height: 100%;
 }
+
+.resources__logo:hover{
+  color: blueviolet;
+}
